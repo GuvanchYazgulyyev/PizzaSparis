@@ -1,0 +1,29 @@
+C:\Users\Dell\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\bin\Debug\100 ders pizza Hous ders 2.exe.config
+C:\Users\Dell\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\bin\Debug\100 ders pizza Hous ders 2.exe
+C:\Users\Dell\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\bin\Debug\100 ders pizza Hous ders 2.pdb
+C:\Users\Dell\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\_100_ders_pizza_Hous_ders_2.Form1.resources
+C:\Users\Dell\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\_100_ders_pizza_Hous_ders_2.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.exe
+C:\Users\Dell\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.pdb
+E:\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\bin\Debug\100 ders pizza Hous ders 2.exe.config
+E:\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\bin\Debug\100 ders pizza Hous ders 2.exe
+E:\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\bin\Debug\100 ders pizza Hous ders 2.pdb
+E:\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.csprojAssemblyReference.cache
+E:\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\_100_ders_pizza_Hous_ders_2.Form1.resources
+E:\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\_100_ders_pizza_Hous_ders_2.Properties.Resources.resources
+E:\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.csproj.GenerateResource.cache
+E:\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.exe
+E:\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\bin\Debug\100 ders pizza Hous ders 2.exe.config
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\bin\Debug\100 ders pizza Hous ders 2.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\bin\Debug\100 ders pizza Hous ders 2.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.csprojAssemblyReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\_100_ders_pizza_Hous_ders_2.Form1.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\_100_ders_pizza_Hous_ders_2.Properties.Resources.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.csproj.GenerateResource.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.csproj.CoreCompileInputs.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 2\100 ders pizza Hous ders 2\100 ders pizza Hous ders 2\obj\Debug\100 ders pizza Hous ders 2.pdb
